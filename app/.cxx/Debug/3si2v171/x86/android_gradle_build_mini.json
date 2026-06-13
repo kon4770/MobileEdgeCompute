@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Legion\\AndroidStudioProjects\\MagC\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Legion\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Legion\\AndroidStudioProjects\\MagC\\app\\.cxx\\Debug\\3si2v171\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Legion\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Legion\\AndroidStudioProjects\\MagC\\app\\.cxx\\Debug\\3si2v171\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "magc::@6890427a1f51a3e7e1df": {
+      "artifactName": "magc",
+      "abi": "x86",
+      "output": "C:\\Users\\Legion\\AndroidStudioProjects\\MagC\\app\\build\\intermediates\\cxx\\Debug\\3si2v171\\obj\\x86\\libmagc.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,1 @@
+C:\Users\Legion\AndroidStudioProjects\MagC\app\build\intermediates\cxx\Debug\3si2v171\obj\arm64-v8a
